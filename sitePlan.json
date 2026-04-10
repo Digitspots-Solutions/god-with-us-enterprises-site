@@ -1,0 +1,42 @@
+{
+  "businessName": "God With Us Enterprises",
+  "industry": "General Trading & Commerce",
+  "tone": "friendly and trustworthy",
+  "tagline": "Your Trusted Partner for Quality Products in Obubra",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to God With Us Enterprises - your reliable source for quality products in Obubra. We offer a wide range of goods to meet your everyday needs with exceptional service and competitive prices.",
+      "imagePrompt": "Photorealistic image of a bustling Nigerian local market storefront in Cross River State, vibrant display of diverse products including foodstuffs, household items, and consumer goods, warm afternoon sunlight, customers shopping, colorful awnings, professional commercial photography style",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "God With Us Enterprises is a trusted trading business located in the heart of Obubra, Cross River State. Conveniently situated opposite Rice Mill Ofodua, we have built our reputation on providing quality products and honest service to our community. Whether you're looking for household essentials, foodstuffs, or consumer goods, we stock a diverse range of products to meet your needs. Our commitment is simple: to be your go-to destination for reliable trading and excellent customer service. We understand the needs of our community and work hard every day to ensure our customers leave satisfied.",
+      "imagePrompt": "Photorealistic image of a well-organized Nigerian retail shop interior in Cross River State, neat shelves stocked with various goods, clean tiled floors, good lighting, friendly atmosphere, customers being served by attentive staff, professional retail environment",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Products & Services",
+      "copy": "At God With Us Enterprises, we offer an extensive range of products carefully selected to serve the Obubra community:\n\n**Foodstuffs & Provisions**: Rice, beans, garri, flour, cooking oil, seasonings, beverages, and more\n\n**Household Essentials**: Detergents, toiletries, cleaning supplies, kitchenware\n\n**Consumer Goods**: Electronics accessories, stationery, personal care items\n\n**Bulk & Retail**: We cater to both individual customers and businesses with competitive pricing for bulk purchases\n\nWe pride ourselves on stocking fresh, quality products from trusted suppliers and maintaining competitive prices that respect your budget.",
+      "imagePrompt": "Photorealistic image of neatly arranged product categories in a Nigerian trading store, multiple shelves displaying packaged foods, household items, beverages in coolers, clean organized retail space, bright commercial lighting, Cross River State local context",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Visit Us Today",
+      "copy": "We're conveniently located Opposite Rice Mill Ofodua in Obubra, Cross River State. Come visit us for all your shopping needs, or get in touch for inquiries about product availability and bulk orders. Our friendly team is ready to serve you.\n\n**Location**: Opposite Rice Mill Ofodua, Obubra L.G.A, Cross River State, Nigeria\n\n**Phone**: 09137229549\n\n**Business Hours**: Monday - Saturday, 8:00 AM - 7:00 PM\n\nFor quick inquiries, chat with us on WhatsApp. We look forward to serving you!",
+      "imagePrompt": "Photorealistic image of a Nigerian commercial street in Obubra, Cross River State, showing a prominent storefront with clear signage, rice mill visible in background, paved road, local vehicles, tropical vegetation, welcoming business facade, natural daylight",
+      "layout": "default"
+    }
+  ],
+  "contact": {
+    "phone": "09137229549",
+    "email": "",
+    "address": "Opposite Rice Mill Ofodua, Obubra L.G.A, Cross River State, Nigeria",
+    "whatsapp": "https://wa.me/2349137229549"
+  }
+}
